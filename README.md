@@ -2,6 +2,9 @@
 
 This application helps process CSV files for VA (Vulnerability Assessment) and Hardening data by formating the color based on the severity, extract information of the plugin outputs, remove duplication in the Vulnerabilities Assessment scan
 
+![My Image](https://i.ibb.co/5vkS55X/Untitled-design-1.jpg)
+
+
 ## Prerequisites
 
 Before running this application, make sure you have the following installed:
